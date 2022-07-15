@@ -13,7 +13,7 @@ packages = [
 python = ">=3.7,<4.0.0"
 requests = "^2.27.1"
 psutil = "^5.9.0"
-fastapi = "^0.74.1"
+fastapi = "^0.79.0"
 fastapi-utils = "^0.2.1"
 uvicorn = "^0.17.4"
 python-multipart = "^0.0.5"
